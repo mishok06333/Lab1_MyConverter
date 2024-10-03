@@ -1,0 +1,5 @@
+ApplicationConverter.exe --value 8.9 --origin-unit meter --result-unit feet 
+
+ApplicationConverter.exe --value 2.3 --origin-unit km --result-unit feet
+
+ApplicationConverter.exe --value 4.5 --origin-unit meter --result-unit inch
